@@ -1,0 +1,11 @@
+{
+    "editor.fontSize": 16,
+    "workbench.productIconTheme": "fluent-icons",
+    "workbench.iconTheme": "symbols",
+    "symbols.hidesExplorerArrows": false,
+    "files.autoSave": "afterDelay",
+    "editor.lineHeight": 26,
+    "workbench.colorTheme": "Omni",
+    "editor.fontFamily":"Fira Code",
+    "editor.fontLigatures":true
+}
