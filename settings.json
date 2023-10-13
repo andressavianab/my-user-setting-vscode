@@ -1,11 +1,21 @@
 {
-    "editor.fontSize": 16,
-    "workbench.productIconTheme": "fluent-icons",
-    "workbench.iconTheme": "symbols",
+     "editor.fontSize": 16,
     "symbols.hidesExplorerArrows": false,
     "files.autoSave": "afterDelay",
     "editor.lineHeight": 26,
-    "workbench.colorTheme": "Omni",
     "editor.fontFamily":"Fira Code",
-    "editor.fontLigatures":true
+    "editor.fontLigatures": true,
+    "workbench.iconTheme": "symbols",
+    "workbench.colorTheme": "Omni",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.tree.indent": 15,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
 }
